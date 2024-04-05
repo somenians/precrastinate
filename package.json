@@ -46,6 +46,7 @@
 		"embla-carousel-svelte": "^8.0.1",
 		"svelte-radix": "^1.1.0",
 		"tailwind-merge": "^2.2.2",
-		"tailwind-variants": "^0.2.1"
+		"tailwind-variants": "^0.2.1",
+		"vaul-svelte": "^0.3.0"
 	}
 }

@@ -34,6 +34,9 @@
 		--destructive: 0 72.2% 50.6%;
 		--destructive-foreground: 0 0% 98%;
 
+		--dialog: 34 24% 73%;
+		--dialog-foreground: 34 95% 92%;
+
 		--ring: 0 0% 3.9%;
 
 		--radius: 0.5rem;
