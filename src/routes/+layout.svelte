@@ -8,6 +8,5 @@
 	<Header />
 	<div class="pb-8" />
 	<slot />
-	<!-- <div class="pb-4" /> -->
 	<Footer />
 </div>
